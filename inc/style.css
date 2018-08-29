@@ -1,0 +1,21 @@
+.text1{text-align: left;     font-size: 15px;}
+.p1{    border: 2px solid #000000;      background-color: #00ff00;}
+.p2{    border: 2px solid #000000;    background-color: #0066ff;}
+.p3{    border: 2px solid #000000;   background-color: #f20000;}
+.table 
+{
+    float:left;
+/*    width:25%;
+*/}
+.top
+{
+	 position: absolute;
+    top: 30px;
+}
+.tab
+{
+	border:solid 1px black; 
+	width:200px;    
+    height: 100px;
+    border: 3px solid red;font-family:verdana; 
+ }
